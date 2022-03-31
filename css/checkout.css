@@ -1,0 +1,189 @@
+.navcheck{
+    width: 50%;
+    height:auto;
+  
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40%;
+}
+.navcheck>div{
+    
+    width: 50%;
+    height: 100%;
+    justify-content: center;
+ 
+    box-sizing: border-box;
+  
+    font-style: sans-serif;
+}
+.navcheck>div img {
+    height: 100%;
+    width: 50%;
+    
+}
+.server{
+    padding: 20px;
+}
+.fedex{
+    width: 40%;
+    height: 60px;
+    display: flex;
+   
+ margin-left: 10%;
+
+}
+.fedex img{
+    height: 60%;
+    width: 90%;
+}
+#checkoutbox{
+    width: 80%;
+    height: auto;
+    margin: auto;
+}
+#billforms{
+    width: 80%;
+    height: auto;
+    
+    display: flex;
+    justify-content:space-between ;
+    margin: auto;
+}
+#billforms>div{
+    width: 45%;
+    height: 100%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+
+}
+form{
+    padding: 20px;
+    font-size: 15px;
+    font-weight: bold;
+   
+}
+form input{
+    width: 100%;
+    font-weight: bold;
+    height: 25px;
+   
+}
+.billtag{
+    width: 100%;
+    height: auto;
+    border: 1px solid teal;
+    background-color: #f0ece0;
+    box-sizing: border-box;
+    text-align: center;
+    
+   
+}
+#pricing{
+    width: 98%;
+    height: auto;
+    border: 1px solid grey;
+    margin-top: 50px;
+    padding: 15px;
+    
+
+}
+#pricing>div{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+.confirm{
+    width: 100%;
+    height:40px;
+    background-color: #f0ece0;
+    
+    box-sizing: border-box;
+}
+#payment-section{
+    width: 100%;
+    height: auto;
+    border: 1px solid gray;
+    margin-top: 50px;
+}
+#payment-form >div{
+    display: flex;
+    width: 50%;
+    border: 1ps solid teal;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+
+.info{
+    width: 100%;
+    height: 50px;
+    background-color: #f0ece0;
+    box-sizing: border-box;
+
+}
+.info p{
+   
+    font-size: 18px;
+    font-weight: bold;
+}
+.order{
+    width: 100%;
+    height: auto;
+   
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.order-rule{
+    width: 70%;
+    
+    height: 80px;
+}
+.order button{
+    background-color: seagreen;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.payment-footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    margin-top: 30px;
+}
+.policies{
+    width: 100%;
+    display: flex;
+    height: 80px;
+    justify-content: space-between;
+    
+}
+.inside-policies{
+    display: flex;
+    font-size: 10px;
+}
+.payNowbtn{
+    background-color: teal;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+   height: 40px;
+   box-sizing: border-box;
+
+}
+.payNowbtn:hover{
+    cursor: pointer;
+}
+.backTocart{
+    font-size: 20px;
+    color: rgb(42, 124, 42);
+}
+.backTocart:hover{
+    cursor: pointer;
+}
