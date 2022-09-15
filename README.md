@@ -20,22 +20,24 @@ This project has been done my me alone.
 ## Some Glimpse and Screenshots of our website:-
 - ### Home Page
 .This is the main landing page of our website. Here clicking on any option on the Navbar will redirect the user to the respective Product Page.
-<img src="https://miro.medium.com/max/875/1*eJP4B8eGF0yOZ8pHHvuZkQ.png" alt="homepage/>
+![Screenshot (171)](https://user-images.githubusercontent.com/99671592/190472904-3e92c01f-1f2c-477d-a96e-77a63cf79a4d.png)
+
 - ### Sign In Page -
 .Here we integrate User authentication to check whether user email and password match with details existing in the database.
-<img src="https://miro.medium.com/max/875/1*iPErf8jeNuTNnBEYKWyjkA.png" alt="signinpage/>
+![Screenshot (175)](https://user-images.githubusercontent.com/99671592/190473182-b4088037-8a8b-4589-ac33-1c6236f26217.png)
 
 - ### Products page -
 .This is one of the product pages of our website.In this user gets a regular update about new deals and products.Also, the user can filter the products according to price.
 .Clicking on the Add To Bag Button will add products to the Bag.
-<img src="https://miro.medium.com/max/875/1*z8CYgkQVi_V67JeADS0B4A.png" alt="productpage/>
+![Screenshot (172)](https://user-images.githubusercontent.com/99671592/190473469-f9694df5-5bff-4420-b622-98a0ca3e691a.png)
+
 
 - ### Cart Page
 .Here all the products added to the cart will be shown. At the bottom, there is a Checkout button. Clicking on that button will redirect the user to the Checkout
-<img src="https://miro.medium.com/max/875/1*sn3eaK8n2zwUJl6mtv3MJQ.png" alt="cartpage/>
+![Screenshot (173)](https://user-images.githubusercontent.com/99671592/190473566-3a9f470d-0fba-43dd-af25-0fb85992f74e.png)
 
 - ### Checkout Page & Payment page
-<img src="https://miro.medium.com/max/875/1*UxXmX2WoMHp3m_esiiOEGQ.png" alt="checkoutpage/>
+![Screenshot (174)](https://user-images.githubusercontent.com/99671592/190473603-6c2d5415-50f0-4ff6-8588-1c5eabcd1c1d.png)
 
 ## Roles & Responsibilities :-
 .A crystal clear user-friendly product listing page. Which list all the products similar to the official website. I added the functionality for filtering out the product using “Price”. Users can search and filter the products as per their needs. I also added another functionality for sorting out all the products on the page by price “High to low” & “Low to high”. Few mouseover functions and styling were also added for user attraction.
